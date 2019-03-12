@@ -1,3 +1,3 @@
-# Estudo_dirigido1
+# estudos
 
 Augusto 2info3
